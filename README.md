@@ -1,2 +1,4 @@
 # Cucumber-project7
-This project contains how to use cucumber through an webdriver
+Practicing the Cucumber framework, focusing on writing feature files, creating step definitions, and managing tests with the runner class to support behavior-driven development.
+
+
